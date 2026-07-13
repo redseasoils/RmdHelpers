@@ -32,5 +32,16 @@ colors <- function() {
     AltgeldOrange = "rgb(200, 65, 19)",
     IlliniBlue = "rgb(19, 41, 75)",
     IlliniGray = "rgb(90, 90, 90)",
+    IlliniStorm = "rgb(112, 115, 114)",
+    IlliniStorm60 = "rgb(142, 144, 144)",
+    IlliniStorm80 = "rgb(198, 199, 198)",
+    IlliniIndustrial = "rgb(29, 88, 167)",
+    IlliniArches = "rgb(0, 159, 212)",
+    IlliniHarvest = "rgb(252, 179, 22)",
+    IlliniPrairie = "rgb(0, 126, 142)",
+    IlliniBerry = "rgb(92, 14, 65)",
+    IlliniEarth = "rgb(125, 62, 19)",
+    white = "rgb(255, 255, 255)",
+    black = "rgb(0, 0, 0)"
   )
 }
