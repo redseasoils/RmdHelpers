@@ -23,9 +23,9 @@ A formatted string appropriate for the current output
 }
 \description{
 Shorthand functions to add a fontface when there are multiple Rmd output
-types. For bold face: \code{\link[=bf]{bf()}}, for italic:
-\code{\link[=it]{it()}}, for bold-italic \code{\link[=bi]{bi()}}, for
-semibold \code{\link[=sb]{sb()}}.
+types. For bold face: \code{\link[latexWordHelpers:fontface]{latexWordHelpers::bf()}}, for italic:
+\code{\link[latexWordHelpers:fontface]{latexWordHelpers::it()}}, for bold-italic \code{\link[latexWordHelpers:fontface]{latexWordHelpers::bi()}}, for
+semibold \code{\link[latexWordHelpers:fontface]{latexWordHelpers::sb()}}.
 }
 \examples{
 bf("hello world")

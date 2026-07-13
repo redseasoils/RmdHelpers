@@ -33,5 +33,5 @@ evaluating if the output is \emph{not} latex.
 
 }
 \seealso{
-\code{\link[=ltx]{ltx()}}
+\code{\link[latexWordHelpers:ltx]{latexWordHelpers::ltx()}}
 }

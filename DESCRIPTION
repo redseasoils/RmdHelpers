@@ -1,4 +1,4 @@
-Package: latexWordHelpers
+Package: RmdHelpers
 Title: Add text to multiple Rmd outputs simultaneously, including LaTeX and Word
 Version: 0.0.0.9000
 Authors@R: 

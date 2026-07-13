@@ -33,5 +33,5 @@ equivalent to \code{\link[knitr:output_type]{knitr::is_latex_output()}}.
 
 }
 \seealso{
-\code{\link[=word]{word()}}
+\code{\link[latexWordHelpers:word]{latexWordHelpers::word()}}
 }

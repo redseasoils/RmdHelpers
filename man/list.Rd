@@ -14,12 +14,12 @@ enumerate(..., start = 1)
 }
 \arguments{
 \item{x}{Set to \code{0} (the default) to begin an unordered list, and to \code{1} to
-end an unordered list via \code{\link[=itemize]{itemize()}}.}
+end an unordered list via \code{\link[latexWordHelpers:list]{latexWordHelpers::itemize()}}.}
 
 \item{...}{Any number of strings or objects coercible to strings via
-\code{\link[=paste]{paste()}}. For \code{\link[=itemize]{itemize()}}, these inputs will be combined
+\code{\link[=paste]{paste()}}. For \code{\link[latexWordHelpers:list]{latexWordHelpers::itemize()}}, these inputs will be combined
 into a single item in the output with an empty string as the separator. For
-\code{\link[=enumerate]{enumerate()}}, each argument to \code{...} becomes one item in
+\code{\link[latexWordHelpers:list]{latexWordHelpers::enumerate()}}, each argument to \code{...} becomes one item in
 the list.}
 
 \item{y}{Options to pass to item in latex output (i.e. \item[y]{...}).}
